@@ -2,4 +2,6 @@ En este repositorio se pueden encontrar distintas funciones de JAVA implementada
 sueldo de un empleado basandose en sus horas y la tarifa por hora, otra funcion
 tenemos de Leer un número y ver si es Par o Impar y otra función de Clasificaión de Personas que esta funcion
 tiene que representar las personas segun su edad y sexo y clasificarlos en distintas categorias.
+Se han creado tres paquetes diferentes para cada funcion, los paquetes son Problema 1, Problema 2 y Problema 3.
+
 ![image](https://github.com/hfarooqupm/SOPRA-CODING-TEST/assets/78760561/a0e5a45a-bceb-4b9f-a43f-693ac34007ef)
