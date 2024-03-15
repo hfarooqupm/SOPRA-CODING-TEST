@@ -14,7 +14,7 @@ public class SueldoEmpleado {
 
         if (HorasTrabajadas > 40) {
             int horasExtras = HorasTrabajadas - 40;
-            double TarifaExtraHoras=(tarifa*(1.05));
+            double TarifaExtraHoras=(tarifa*(1.5));
             sueldo = (40 * tarifa) + (horasExtras * TarifaExtraHoras);
         } else {
             sueldo = HorasTrabajadas * tarifa;
